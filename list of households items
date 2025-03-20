@@ -5,16 +5,7 @@
             "Refrigerator",
             "Microwave",
             "Table",
-            "Chair",
-            "Dishwasher",
-            "Washing Machine",
-            "Television",
-            "Vacuum Cleaner",
-            "Fan",
-            "Broom",
-            "Toaster",
-            "Coffee Maker",
-            "Iron"
+           
         };
 
         Console.WriteLine("List of Household Items:");
@@ -22,4 +13,5 @@
         {
             Console.WriteLine(item);
         }
+householdItems.add("Dishwasher");
     

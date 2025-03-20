@@ -15,7 +15,6 @@
             Console.WriteLine(item);
         }
 
-householdItems.add("Dishwasher");
-householdItems.add("Chair");
+householdItems.add("Dishwasher");householdItems.add("Chair");
 
     

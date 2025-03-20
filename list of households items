@@ -5,8 +5,6 @@
             "Refrigerator",
             "Microwave",
             "Table",
-            "Chair",
-           
         };
 
         Console.WriteLine("List of Household Items:");
@@ -14,4 +12,5 @@
         {
             Console.WriteLine(item);
         }
+householdItems.add("Chair");
     

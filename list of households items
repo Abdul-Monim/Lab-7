@@ -1,0 +1,25 @@
+ List<string> householdItems = new List<string>
+        {
+            "Sofa",
+            "Lamp",
+            "Refrigerator",
+            "Microwave",
+            "Table",
+            "Chair",
+            "Dishwasher",
+            "Washing Machine",
+            "Television",
+            "Vacuum Cleaner",
+            "Fan",
+            "Broom",
+            "Toaster",
+            "Coffee Maker",
+            "Iron"
+        };
+
+        Console.WriteLine("List of Household Items:");
+        foreach (var item in householdItems)
+        {
+            Console.WriteLine(item);
+        }
+    

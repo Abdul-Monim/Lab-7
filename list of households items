@@ -1,10 +1,12 @@
- List<string> householdItems = new List<string>
+List<string> householdItems = new List<string>
         {
             "Sofa",
             "Lamp",
             "Refrigerator",
             "Microwave",
             "Table",
+ 
+ 
         };
 
         Console.WriteLine("List of Household Items:");
@@ -12,5 +14,13 @@
         {
             Console.WriteLine(item);
         }
+ 1st-branch
 householdItems.add("Chair");
     .
+=======
+
+householdItems.add("Dishwasher");householdItems.add("Chair");
+
+    
+,
+ main

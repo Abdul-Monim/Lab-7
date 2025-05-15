@@ -1,4 +1,4 @@
- List<string> householdItems = new List<string>
+List<string> householdItems = new List<string>
         {
             "Sofa",
             "Lamp",
@@ -18,3 +18,4 @@
 householdItems.add("Dishwasher");householdItems.add("Chair");
 
     
+,
